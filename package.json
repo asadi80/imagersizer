@@ -1,0 +1,19 @@
+{
+  "name": "imageresize",
+  "version": "1.0.0",
+  "description": "resize image to instgram size photos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadi80/imagersizer.git"
+  },
+  "author": "Abdurraouf Sadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asadi80/imagersizer/issues"
+  },
+  "homepage": "https://github.com/asadi80/imagersizer#readme"
+}

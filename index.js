@@ -1,5 +1,4 @@
 
-
 function imagersizer(){
     let images = document.querySelectorAll('.imageresizer');
     images.forEach(image=>{
